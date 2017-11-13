@@ -1,0 +1,55 @@
+E4-1	Akkie	Onyx
+E4-2	Zachary	Neith
+E4-3	Meows  <player>/Mitsuka
+E4-4	Darkus	Tempest
+CHMP	Toast	Revan
+Youmaton - Reporter
+
+
+A loyal vassal to her liege, she lives to serve as his sword and shield. With a silent voice will she sing: tremble, ye mortals, for rise shall the king.
+
+== Ultima Evolution ==
+
+"Pokemon once ruled the world.
+
+They built civilizations. They invented language. They understood magicks while science still baffles our inferior minds. Even their weapons of yore were orders of magnitude stronger than anything we can produce today.
+
+So why does man now thrive, and Pokemon serve? It is simple, really.
+
+Man created the Pokeball.
+
+They did not."
+
+
+Tap into the power of Ultima Evolution, and gain access to unimaginable strength!
+Four Ultima Relics are present in the game, each corresponding to one individual Pokemon.
+
+
+Ultima Gardevoir
+68/15/150/215/185/85
+
+Pixilate Ultima
+This Pokemon's Normal-type moves become Fairy type and have 2x power. This Pokemon's physical moves gain 1.1x power and damages target based on this Pokemon's Special Attack. This Pokemon's attacks that have a chance of inflicting Burn are super-effective against Bug, Grass, and Ice-type Pokemon, and gain 1.5x power during harsh sunlight.
+
+Summer Edge | Normal | Physical | 100 Power | 100% Accuracy | 16 PP
+A flurry of sharp blades launched at high velocity. Has a 50% chance of lowering the opponent's Defense and Special Defense by 1 stage, and a 20% chance of inflicting Burn. This move has 1.5x power against Pokemon that resist it.
+
+Phantom Nova | Status | 8 PP
+The user channels an explosive energy unknown. Raises Special Attack and Speed by 1 stage. On the next turn, the user evades all attacks, cures all status conditions, restores 80% of their maximum HP, and intensifies the sun for three turns. Will fail if used in rapid succession.
+
+https://en.wikipedia.org/wiki/Szczerbiec
+
+
+Ultima Scizor
+70/180(+20)/162(+18)/9(+1)/144(+16)/72(+8)
+
+Technician Ultima
+This Pokemon's moves of 60 power or less have 2x power. 10% of this Pokemon's base stats form a secondary stat pool that absorbs all negative stat changes. In return, this Pokemon's stats cannot be increased. This Pokemon's attacks that have a chance of inflincting Paralysis are super-effective against Bug, Fire, Flying, and Ice-type Pokemon, and gain 1.5x power during sandstorm.
+
+Autumn Quake | Steel | Physical | 10 Power | 100% Accuracy | 16 PP
+A powerful blunt strike using the user's full might. This move completely ignores the target's Defense. Has a 20% chance of inflicting Paralysis. This move hits twice against Pokemon that resist it.
+
+Emerald City | Status | 8 PP
+The user channels a violent energy unknown. Summons a sandstorm for four turns. On the next turn, the user has 0 Defense and Special Defense, but is immune to damage. All potential damage inflicted to this Pokemon is dealt to the attacker instead. Will fail if used in rapid succession.
+
+-
